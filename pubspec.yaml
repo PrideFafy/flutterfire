@@ -18,6 +18,10 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  test:
+  flutter_driver:
+    sdk: flutter
+  integration_test:
 
 
 # The following section is specific to Flutter.
